@@ -7,3 +7,9 @@ export interface TypeScript {
   isGood: Boolean;
   experienced: Boolean;
 }
+
+const Obj: TypeScript = {
+   codingLanguage: "TypeScript",
+   isGood: true,
+   experienced: true
+}
